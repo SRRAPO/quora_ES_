@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quora_ES_/static/css/main.273228cf.css",
+    "main.js": "/quora_ES_/static/js/main.702a17d4.js",
+    "index.html": "/quora_ES_/index.html",
+    "main.273228cf.css.map": "/quora_ES_/static/css/main.273228cf.css.map",
+    "main.702a17d4.js.map": "/quora_ES_/static/js/main.702a17d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.273228cf.css",
+    "static/js/main.702a17d4.js"
+  ]
+}
